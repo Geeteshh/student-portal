@@ -77,3 +77,4 @@ $attendance_records = $stmt->get_result();
     </section>
 </body>
 </html>
+
